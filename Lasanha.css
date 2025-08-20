@@ -1,0 +1,249 @@
+body  {
+    background-color: rgb(248, 215, 123);
+    padding: 0;
+    margin: 0;
+}
+
+/* header */
+
+header {
+    width: 100%;
+    height: 95px;
+    background-color: #b91e31;
+    position: relative;
+    font-size: 20px;
+}
+
+header img{
+    position: relative;
+    left: 48%;
+    bottom: 35px;
+    background-color: white;                                                                                                                                                                                                                                                                                                                                                              
+    border-radius: 70%;
+}
+
+.siteex {
+    position: relative;
+    left: 90%;
+    top: 50%;
+    text-decoration: none;
+    color: white;
+    width: 10%;
+}
+
+.contatos {
+    position: relative;
+    left: 75%;
+    top: 50%;
+    text-decoration: none;
+    color: white;
+}
+
+/* main */
+
+main {
+    background-image: url(Imagens/papel\ de\ parede.jpg);
+    width: 90%;
+    left: 4.5%;
+    position: relative;
+    padding: .5%;
+}
+
+main img {
+    height: 250px;
+    padding: 3% 0;
+}
+
+article {
+    position: relative;
+    padding-top: 2%;
+}
+
+h1 {
+    position: absolute;
+     color: rgb(223, 149, 65);
+    font-family: 'Anton', sans-serif ;
+    text-shadow: 2px 2px #63000c;
+    font-size: 80px;
+    left: 48%;
+}
+
+article p {
+    position: absolute;
+    left: 40%;
+    text-align: justify;
+    font-size: 25px;
+    top: 38%;
+}
+
+h2, h3{
+    color: rgb(223, 149, 65);
+    font-family: 'Anton', sans-serif ;
+    text-shadow: 2px 2px #63000c;
+}
+
+.receita {
+    position: relative;
+}
+
+.ingredientes {
+    position: relative;
+    left: 28%;
+}
+
+.ingredientess {
+    position: relative;
+    left: 30%;
+    color: rgb(223, 149, 65);
+    font-family: 'Anton', sans-serif ;
+    text-shadow: 2px 2px #63000c;
+    width: 10%;
+}
+
+.modop {
+    position: absolute;
+    width: 29%;
+    top: 16.5%;
+    left: 45%;
+}
+
+.modopre {
+    position: absolute;
+    width: 29%;
+    top: 8.5%;
+    left: 54.5%;
+}
+
+
+p {
+    text-align: center;
+    padding: 0 8%;
+}
+
+ul {
+    position: relative;
+    left: 42%;
+    width: 30%;
+}
+
+ul li {
+    width: 100%;
+}
+
+.lasanha1 {
+    position: relative;
+    border-radius: 30%;
+    height: 500px;
+    border: 5px solid rgb(187, 102, 6);
+    padding: 0%;
+}
+
+.lasanha2 {
+    position: relative;
+    left: 35%;
+    border-radius: 40%;
+    height: 250px;
+}
+
+.lasanha4 {
+    position: relative;
+    left: 28.5%;
+    border: 2px solid rgb(180, 53, 3);
+    height: 400px;
+    padding: 0;
+}
+
+.sobremesa {
+    position: relative;
+}
+
+.singredientess {
+    position: absolute;
+    left: 28%;
+    top: 42.1%;
+}
+
+.singredientes {
+    position: relative;
+    left:25.5%;
+    padding-bottom: 5%;
+}
+
+.smodopre {
+    position: absolute;
+    left: 60%;
+    top: 42%;
+}
+
+.smodop {
+    width: 25%;
+    position: absolute;
+    left: 51%;
+    top: 45.5%;
+    text-align: justify;
+}
+
+.brownie {
+    position: relative;
+    left: 36.5%;
+    border-radius: 40%;
+    height: 250px;
+}
+
+.brownie3 {
+    position: relative;
+    left: 26.5%;
+    border: 2px solid rgb(75, 33, 5);
+    height: 400px;
+    padding: 0;
+}
+
+.suporte {
+    width: 60px;
+    height: 60px;
+    background-color: #960919;
+    border-radius: 20%;
+    padding: 5px;
+    position: fixed;
+    bottom: 15px;
+    right: 5%;
+}
+
+/* rodapé */
+
+footer {
+    background-color: #e30613;
+    width: 100%;
+    padding: 1% 0 .1% 0; 
+    position: static;
+}
+
+.redess>a>img {
+    box-shadow: none;
+    margin-left: 13%;
+    padding-bottom: .5%;
+}
+
+.contato {
+    background-color: #b91e31;
+    color: #ffffff;
+    padding: .5% 0;
+}
+
+.titulo {
+    color: #ffffff;
+    font-weight: 800;
+}
+
+.direitos {
+    color: #ffffff;
+    text-align: center;
+}
+
+.contato>p {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
